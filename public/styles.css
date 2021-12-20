@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+
+
+.container{
+    display: inline-flex;
+    padding: 10px;
+  
+}
+
+.img{
+    margin-left: 500px;
+}
+
+spam{
+    font-size: 30px;
+}
+
+h3{
+    font-size: 35px;
+}
+
+
